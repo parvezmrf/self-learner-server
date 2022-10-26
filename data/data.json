@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "names": "Modern React with Redux",
+        "name": "React with Redux",
+        "author": "Stephen Grider",
+        "details": "If you are just learning React, there is no reason for you to be using Redux. React by itself takes a while to master and you should.",
+        "duration": "120",
+        "rating": "4.7",
+        "date": "9/2022",
+        "price": "25",
+        "img": "https://img-c.udemycdn.com/course/240x135/4726062_4ef4_2.jpg"
+    },
+    {
+        "id": 2,
+        "names": "React JS Web Development",
+        "name": "React JS Web",
+        "author": "David Joseph Katz",
+        "details": "React. js is a great option for JavaScript developers creating single-page web applications. It allows developers to create complex.",
+        "duration": "60",
+        "rating": "4.5",
+        "date": "10/2022",
+        "price": "30",
+        "img": "https://img-c.udemycdn.com/course/240x135/4336818_1ff0_2.jpg"
+    },
+    {
+        "id": 3,
+        "names": "React JS, Angular & Vue JS ",
+        "name": "React JS Angular",
+        "author": "Maxilium",
+        "details": "Which is better between Angular vs React vs Vue. Here's a comprehensive comparison to help you choose the right JS framework in 2022",
+        "duration": "130",
+        "rating": "4.6",
+        "date": "11/2022",
+        "price": "32",
+        "img": "https://img-c.udemycdn.com/course/240x135/4735236_c6b7.jpg"
+    },
+    {
+        "id": 4,
+        "names": "Typescript & React JS Course",
+        "name": "Typescript & React JS",
+        "author": "Oak Academy",
+        "details": "With this React course, you can learn how to create elements that let users update data in real time, create useful interactive components.",
+        "duration": "95",
+        "rating": "4.3",
+        "date": "10/2022",
+        "price": "25",
+        "img": "https://img-c.udemycdn.com/course/240x135/1208638_2604.jpg"
+    },
+    {
+        "id": 5,
+        "names": "React Development Bootcamp",
+        "name": "React Development",
+        "author": "Sufa Digital",
+        "details": "Modern React lessons course is specialized for students who want to learn latest coding techniques by building modern react web applications.",
+        "duration": "110",
+        "rating": "4.2",
+        "date": "9/2022",
+        "price": "23",
+        "img": "https://img-c.udemycdn.com/course/240x135/837094_75da_2.jpg"
+    },
+    {
+        "id": 6,
+        "names": "Full Stack Web & Mobile App",
+        "name": "Web & Mobile App",
+        "author": "Academy",
+        "details": "Full Stack Web Development and Mobile App Development with React JS, React Native, NodeJS, MongoDB | MERN Stack Projects. Thank you",
+        "duration": "85",
+        "rating": "4.3",
+        "date": "8/2022",
+        "price": "20",
+        "img": "https://img-c.udemycdn.com/course/240x135/1078522_f455_3.jpg"
+    }
+]
