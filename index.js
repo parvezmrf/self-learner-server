@@ -13,11 +13,15 @@ app.get('/courses', (req, res) => {
 })
 
 app.get('/course/:id', (req, res) => {
-
     const ids = req.params.id;
     const signleCourse = courseCollection?.find((p) => p.id == ids);
-
     res.send(signleCourse)
+})
+
+app.get('/buy/:id', (req, res) => {
+    const ids = req.params.id;
+    const buyCourse = courseCollection?.find((p) => p.id == ids);
+    res.send(buyCourse)
 })
 
 app.listen(port, () => {
